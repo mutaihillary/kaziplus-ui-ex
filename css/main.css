@@ -5,25 +5,33 @@ html, body {
     height: 100%;
     width: 100%;
     margin:20px;
-	 padding:10px;
+	 padding:1px;
     font-family: 'Open Sans', sans-serif;
+    align-content: center;
 }
 
 .row {
-    max-width: 100%;
+    max-width: 55%;
 }
 .kaziplus{
 font-size: 30px;
 background-color: green;
 color: white;
 font-weight: 900px;
+max-width: 15%;
+padding-top: 10px;
+margin-top: 55px;
 }
+
 
 .kazi{
 color: green;
+padding-top: 10px;
+
 }
 .regi{
 	color: white;
 	background-color: green;
 	font-size: 16px;
+	padding: 5px;
 }
