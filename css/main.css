@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html, body {
+    background: #ecf0f1;
+    height: 100%;
+    width: 100%;
+    margin:20px;
+	 padding:10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    max-width: 100%;
+}
+.kaziplus{
+font-size: 30px;
+background-color: green;
+color: white;
+font-weight: 900px;
+}
+
+.kazi{
+color: green;
+}
+.regi{
+	color: white;
+	background-color: green;
+	font-size: 16px;
+}
